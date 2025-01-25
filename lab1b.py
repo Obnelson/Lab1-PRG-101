@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author:Nelson Owusu Boadi
+# Date:25-01-2025
 # Purpose: Use arithmetic in python.
 # Usage: ./lab1b.py
 
